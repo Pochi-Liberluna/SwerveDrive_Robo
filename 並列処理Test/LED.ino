@@ -1,4 +1,4 @@
-4#define LED1Pin 9
+#define LED1Pin 9
 #define LED2Pin 10
 #define OUTPUT OPT  //DigitalWrite用 OUTPUT定数
 #define INPUT IPT   //DigitalWrite用 INPUT定数
