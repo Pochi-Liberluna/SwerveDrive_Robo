@@ -3,7 +3,9 @@
 
 ## 使う予定のパーツやマイコン
 <h3>
-  ・Arduino MEGA  
+  ・Arduino MEGA
+</br>
   ・超音波センサー(HC-SR04)
-
+</br>
+  ・
 </h3>
